@@ -1,1 +1,1 @@
-# caseprice-analyst
+# Case price analyser based on Bitskin market prices
